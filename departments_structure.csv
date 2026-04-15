@@ -1,0 +1,28 @@
+"DEPARTMENT_ID","DEPARTMENT_NAME","MANAGER_ID","LOCATION_ID"
+10,Administration,200,1700
+20,Marketing,201,1800
+30,Purchasing,114,1700
+40,Human Resources,203,1400
+50,Shipping,121,1400
+60,IT,103,1400
+70,Public Relations,204,1400
+80,Sales,145,1800
+90,Executive,100,1700
+100,Finance,108,1800
+110,Accounting,205,1400
+120,Treasury,169,1700
+130,Corporate Tax,321,1700
+140,Control And Credit,102,1800
+150,Shareholder Services,283,1700
+160,Benefits,,1700
+170,Manufacturing,405,1700
+180,Construction,,1700
+190,Contracting,291,1700
+200,Operations,505,1700
+210,IT Support,,1700
+220,NOC,322,1700
+230,IT Helpdesk,,1700
+240,Government Sales,152,1700
+250,Retail Sales,,1700
+260,Recruiting,134,1700
+270,Payroll,142,1700
